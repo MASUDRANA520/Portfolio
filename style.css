@@ -9,10 +9,12 @@ font-weight: 800;
 .text-primary{
   color: #FD6E0A;
 }
+/*navber*/
  nav {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: center; margin: 00px 200px;
+
 }
 nav ul{
   display: flex;
@@ -36,3 +38,16 @@ nav a{
   color:white;
   padding: 15px 35px;
 }
+.header{
+  background: #FFF8F3;
+}
+.banner{
+  padding: 30px 30px 30px 150px;
+  display: flex;
+  align-items: center;
+}
+.image{
+  width: 300px;
+  height: 400px;
+}
+
